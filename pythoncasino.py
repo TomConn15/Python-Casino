@@ -1,6 +1,6 @@
 import os
 import random
-# I ran my progtamon my mac usig the terminal.
+# I ran my program on my mac usig the terminal.
 
 # Function that deals with number bets in roulette.       
 def number_pick(cash):
